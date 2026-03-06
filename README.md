@@ -11,7 +11,7 @@ The dashboard provides insights into sales performance, profit trends, and categ
 - Identify top performing products
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Customer behavior dashboard/Screenshots/overview.png)
+![Dashboard Screenshot](Customer%20behavior%20dashboard/Screenshots/overview.png)
 
 ## 📊 Key Metrics
 The dashboard highlights the following KPIs:
